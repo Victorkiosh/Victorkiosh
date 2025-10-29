@@ -31,10 +31,10 @@ With a foundation in **Mathematics** and **Data Science**, I thrive at the inter
 ---
 
 ### 🚀 Featured Projects
-- 🌡️ **[Temperature Anomaly Detection]([https://github.com/Victorkiosh/temperature-anomaly-detection](https://github.com/Victorkiosh/temperature_anomaly_detection))** — End-to-end machine learning project: from data collection to model deployment and dashboard monitoring.  
+- 🌡️ **[Temperature Anomaly Detection](https://github.com/Victorkiosh/temperature_anomaly_detection)** — End-to-end machine learning project: from data collection to model deployment and dashboard monitoring.  
 - ⚡ **[Dominion Electricity Anomaly Detection](https://github.com/Victorkiosh/dominion-electricity-anomaly-detection)** — Detecting unusual electricity consumption patterns using ML techniques.  
 - 🧩 **[Customer Segmentation (RFM Analysis)](https://github.com/Victorkiosh/customer-segmentation-rfm-powerbi)** — Understanding customer behavior through clustering and Power BI storytelling.
-- 🛒 **[KituHub E-Commerce Dashboard](https://github.com/Victorkiosh/kituhub-powerbi)** — A Power BI sales & customer insights dashboard telling a story of growth and performance.  
+- 🛒 **[KituHub E-Commerce Dashboard](https://github.com/Victorkiosh/kituHub-powerbi-dashboard)** — A Power BI sales & customer insights dashboard telling a story of growth and performance.  
 
 ---
 
